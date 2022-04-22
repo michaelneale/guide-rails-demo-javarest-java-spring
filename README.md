@@ -2,6 +2,7 @@
 Learn how to get started with Guide-Rails full CI/CD pipelines using this sample Java application. 
 Check out the [Tutuorial](https://guide-rails.calculi.io/help/tutorials/java/java.html)
 
+
 =======
 ## SpringBoot Server
 
